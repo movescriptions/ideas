@@ -1,0 +1,2 @@
+# ideas
+Application ideas
